@@ -1,0 +1,17 @@
+/* src/components/SearchPage.css */
+.search-page {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .results {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .error {
+    color: red;
+    margin: 20px 0;
+  }
+  
